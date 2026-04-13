@@ -245,7 +245,7 @@ def transform_fragment_2(xyz, force, atom_num, atom_mass, target_direction, v, o
 
 def display(xyz, ref_center, ref_dir):
     fig = plt.figure()
-    ax = fig.add_subplot(prokection='3d')
+    ax = fig.add_subplot(projection='3d')
     ax.scatter(xyz[:, :, 0], xyz[:, :, 1], xyz[:, :, 2], marker='O')
     ax.plot([ref_center, ref_dir[0]])
     return
