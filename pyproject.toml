@@ -18,5 +18,5 @@ test = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["."]
-include = ["fragment_transform*"]
+where = ["src"]
+include = ["atom_ordering*"]
