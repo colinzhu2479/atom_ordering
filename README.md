@@ -24,6 +24,7 @@ A Python module for canonicalizing molecular fragment geometries and forces by a
 - Python 3.x
 - NumPy
 - SciPy
+- matplotlib
 
 ## API Reference
 
