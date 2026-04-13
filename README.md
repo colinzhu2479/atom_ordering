@@ -18,7 +18,6 @@ Xiao Zhu, S. S. Iyengar. Large Language Model-Type Architecture for High-Dimensi
 
 A Python module for canonicalizing molecular fragment geometries and forces by aligning them to a consistent reference frame based on the principal axes of inertia. This is primarily used as a preprocessing step for machine learning models of molecular potential energy surfaces and atomic forces.
 
-![Architecture Diagram](docs/images/Fig28.png)
 
 ## Dependencies
 
